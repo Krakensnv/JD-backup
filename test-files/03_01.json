@@ -1,0 +1,37 @@
+{
+  "id" : null,
+  "name" : null,
+  "enabled" : true,
+  "created" : 1634485577679,
+  "uid" : 1634485577956,
+  "originDetails" : {
+    "id" : "CLIPBOARD",
+    "details" : null
+  },
+  "downloadLink" : {
+    "name" : "Sanet.ST_Docker A Project-Based Approach to Learning.part2.rar",
+    "url" : "https://nitroflare.com/view/22886243F38E61C",
+    "properties" : {
+      "FINAL_FILENAME" : "Sanet.ST_Docker A Project-Based Approach to Learning.part2.rar",
+      "URL_CONTENT" : "http://nitroflare.com/view/22886243F38E61C",
+      "premiumRequired" : false,
+      "URL_ORIGIN" : "http://nitroflare.com/view/22886243F38E61C/Sanet.ST_Docker_A_Project-Based_Approach_to_Learning.part2.rar",
+      "apiInfo" : true,
+      "VERIFIEDFILESIZE" : 644496341
+    },
+    "size" : 644496341,
+    "host" : "nitroflare.com",
+    "enabled" : true,
+    "created" : 1634485577695,
+    "uid" : 1634485577956,
+    "urlProtection" : "UNSET",
+    "linkStatus" : null,
+    "current" : 0,
+    "finalLinkState" : null,
+    "availablestatus" : "TRUE",
+    "propertiesString" : null,
+    "chunkProgress" : null
+  },
+  "sourceUrls" : [ "http://nitroflare.com/view/22886243F38E61C/Sanet.ST_Docker_A_Project-Based_Approach_to_Learning.part2.rar" ],
+  "archiveInfo" : null
+}

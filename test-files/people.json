@@ -1,0 +1,26 @@
+{
+	"people1": [
+	{
+		"name": "Nikhil",
+		"url": "gfg.com",
+		"from": "Delphi"
+	},
+	{
+		"name": "Abhinav",
+		"url": "google.com",
+		"from": "Mumbai"
+	}
+],
+	"people2": [
+		{
+		"name": "Thomas",
+		"url": "indeed.com",
+		"from": "United Kingdom"
+		},
+		{
+		"name": "Pedro",
+		"url": "playa.com",
+		"from": "Mexico"
+		}
+	]	
+}

@@ -1,0 +1,8 @@
+{
+    "Linux": ["Ubuntu", "Fedora", "CentOS", "Linux Mint", 
+              "Debian", "Kali Linux"],
+    "Windows": ["Windows 2000", "Windows XP", "Windows Vista", 
+                "Windows 7", "Windows 8", "Windows 10"],
+    "MacOS": ["OS X 10.8", "OS X 10.9", "OS X 10.10", "OS X 10.11",
+              "MacOS 10.12", "MacOS 10.13", "MacOS 10.14"]
+}
