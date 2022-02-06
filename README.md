@@ -1,4 +1,4 @@
-# JD-backup
+![JDownloader 2](https://github.com/Krakensnv/JD-backup/blob/main/images/jd2.png)# JD-backup
 
 ## Description
 JD-backup is an advanced Python script, that will extract all links from a **jDownloader 2** file list and export them to a text file.
