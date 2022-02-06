@@ -4,7 +4,7 @@
 JD-backup is an advanced Python script, that will extract all links from a **jDownloader 2** file list and export them to a text file.
 
 # Thanks to:
-https://github.com/hherglotz/linkextractor
+[hherglotz](https://github.com/hherglotz/linkextractor)
 for an idea and the source code, which I used as a start of my project.
 
 ## What JD-backup does
